@@ -10,7 +10,7 @@ namespace Cruzeiro
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Cruzeiro - Maior do Brasil");
+            System.Console.WriteLine("Cruzeiro - Maior time do mundo e sem mimimi");
         }
     }
 }
