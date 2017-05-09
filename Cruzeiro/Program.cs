@@ -10,7 +10,7 @@ namespace Cruzeiro
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Cruzeiro - Maior de Minas Gerais");
+            System.Console.WriteLine("Cruzeiro - Maior do Brasil");
         }
     }
 }
